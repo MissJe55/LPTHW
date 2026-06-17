@@ -4,7 +4,7 @@ Welcome! This repository tracks my progress as I work through Zed Shaw's **"Lear
 
 ---
 
-## 🎯 My "Why" (The Mission)
+##  My "Why" (The Mission)
 I am building a foundational understanding of Python nto power up my journey into **Cybersecurity**. 
 
 In the security world, automation is everything. I am learning Python to:
@@ -14,7 +14,7 @@ In the security world, automation is everything. I am learning Python to:
 
 ---
 
-## ⚙️ The Tech Stack & Approach
+## The Tech Stack & Approach
 
 * **The Guide:** *Learn Python the Hard Way (5th Edition)* — following step-by-step, typing out every line by hand, and intentionally breaking things to learn how to fix them.
 * **The Tools:** Started with **Anaconda & Jupyter Notebooks** for rapid experimentation, transitioning into **VS Code** for full script development.
@@ -22,7 +22,7 @@ In the security world, automation is everything. I am learning Python to:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 To keep my learning workspace clean, I’ve organized my progress into dedicated folders:
 
@@ -31,7 +31,7 @@ To keep my learning workspace clean, I’ve organized my progress into dedicated
 
 ---
 
-## 🚀 Future Goals
+##  Future Goals
 * Complete 100% of the book's exercises.
 * Transition completely to a professional IDE workflow in VS Code.
 * Begin writing custom security automation scripts (log parsers, port scanners, and API integrators) once the fundamentals are locked down.
