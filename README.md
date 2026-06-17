@@ -5,7 +5,7 @@ Welcome! This repository tracks my progress as I work through Zed Shaw's **"Lear
 ---
 
 ##  My "Why" (The Mission)
-I am building a foundational understanding of Python nto power up my journey into **Cybersecurity**. 
+I am building a foundational understanding of Python to power up my journey into **Cybersecurity**. 
 
 In the security world, automation is everything. I am learning Python to:
 * **Automate the Boring Stuff:** Write scripts to handle repetitive tasks, parse massive log files, and speed up workflows.
