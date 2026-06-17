@@ -1,12 +1,12 @@
 # LPTHW
-Learn Python The Hard Way Study Group 
+Learn Python The Hard Way Self Study
 This repository contains my work as I go through Learn Python the Hard Way (5th Edition).
 
-Goal
+Goal:
 Complete the entire book
 Build a strong foundation in Python
 
-Approach
+Approach:
 Following the book step-by-step
 Using Anaconda and Jupyter Notebooks, then will move to VS Code
 Practicing each exercise, reviewing errors, breaking things a bit to learn
