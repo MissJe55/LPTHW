@@ -9,8 +9,7 @@ I am building a foundational understanding of Python to power up my journey into
 
 In the security world, automation is everything. I am learning Python to:
 * **Automate the Boring Stuff:** Write scripts to handle repetitive tasks, parse massive log files, and speed up workflows.
-* **Understand the Architecture:** Better analyze software vulnerabilities, understand how exploits work under the hood, and talk the same language as the systems I protect.
-* **Think Systematically:** Breaking down complex programming logic trains the exact problem-solving mindset needed for threat analysis and security engineering.
+
 
 ---
 
@@ -34,6 +33,6 @@ To keep my learning workspace clean, I’ve organized my progress into dedicated
 ##  Future Goals
 * Complete 100% of the book's exercises.
 * Transition completely to a professional IDE workflow in VS Code.
-* Begin writing custom security automation scripts (log parsers, port scanners, and API integrators) once the fundamentals are locked down.
+* Dive into automation projects for my portfolio once the fundamentals are locked down.
 
-*This is a living, breathing learning repository. The code starts simple, but it gets smarter every day.*
+
