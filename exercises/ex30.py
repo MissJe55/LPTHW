@@ -56,11 +56,11 @@ if people < cats:
 
 #Study Drill
 
-#1. What do you think the if code does under it?  The if code causes what is under it to print if the condition of the if is true
+#1. What do you think the if code does under it?  The if code causes what is under it to run the code if the condition of the if is true
 
-#2. Why does the code under the if need to be indented 4 spaces? If not indented, its not recognized as being part of the if statement - needs to be in the same code block
+#2. Why does the code under the if need to be indented 4 spaces? If not indented, its not recognized as being in the same code block
 
-#3. What happens if it isn't indented? If not indented, it will not be controlled by the if statement
+#3. What happens if it isn't indented? If not indented, it will not be controlled by the if statement, most likely will return an error
 
 #4. Can you put other Boolean statments in the if statement, try it. (See line 31)
 
